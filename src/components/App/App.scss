@@ -1,0 +1,15 @@
+.App {
+  padding-top: 200px;
+  padding-left: 50px;
+  padding-right: 50px;
+  max-width: 1200px;
+
+  > main {
+    margin-left: auto;
+    margin-right: auto;
+
+    @media (min-width: 600px) {
+      max-width: 500px;
+    }
+  }
+}
