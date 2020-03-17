@@ -17,7 +17,7 @@ const App = () => (
 
         <ul>
           <li>
-            <a href="/origens/china-julho-2018/">
+            <a href="https://simonfan.github.io/china-julho-2018/">
               1. ORIGENS
             </a>
           </li>
