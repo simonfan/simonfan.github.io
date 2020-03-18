@@ -12,7 +12,7 @@ const App = () => (
           Seja bem vindo.
         </p>
         <p>
-          Meu nome é Simon e esta é a minha biblioteca.
+          Meu nome é Simon e esta é a minha biblioteca. Aqui guardo pensamentos que me ajudam o mundo e a mim mesmo.
         </p>
 
         <ul>
