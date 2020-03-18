@@ -17,13 +17,18 @@ const App = () => (
 
         <ul>
           <li>
-            <a href="https://simonfan.github.io/china-julho-2018/">
+            <a href="https://simonfan.com.br/china-julho-2018/">
               1. ORIGENS
             </a>
           </li>
           <li>
-            <a href="https://simonfan.github.io/metaesquema-meta">
+            <a href="https://simonfan.com.br/metaesquema-meta/">
               METAESQUEMAS
+            </a>
+          </li>
+          <li>
+            <a href="https://simonfan.com.br/blokoke-2020/">
+              CARNAVAL - BLÓKÕKÊ
             </a>
           </li>
         </ul>
