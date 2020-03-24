@@ -31,6 +31,11 @@ const App = () => (
               CARNAVAL - BLÓKÕKÊ
             </a>
           </li>
+          <li>
+            <a href="https://simonfan.com.br/turquia-2019/01-mar-negro">
+              TURQUIA / 01 - MAR NEGRO
+            </a>
+          </li>
         </ul>
       </RichText>
     </main>
