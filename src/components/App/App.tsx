@@ -32,7 +32,7 @@ const App = () => (
             </a>
           </li>
           <li>
-            <a href="https://simonfan.com.br/turquia-2019/01-mar-negro">
+            <a href="https://simonfan.com.br/turquia-2019/#/01-mar-negro">
               TURQUIA / 01 - MAR NEGRO
             </a>
           </li>
