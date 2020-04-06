@@ -14,7 +14,6 @@ const App = () => (
         <p>
           Meu nome é Simon e esta é a minha biblioteca. Aqui guardo pensamentos que me ajudam a entender melhor o mundo e a mim mesmo.
         </p>
-
         <ul>
           <li>
             <a href="https://simonfan.com.br/china-julho-2018/">
@@ -35,6 +34,9 @@ const App = () => (
             <a href="https://simonfan.com.br/turquia-2019/#/01-mar-negro">
               TURQUIA / 01 - MAR NEGRO
             </a>
+          </li>
+          <li>
+            <a href="mailto:simon@orioro.design">simon@orioro.design</a>
           </li>
         </ul>
       </RichText>
